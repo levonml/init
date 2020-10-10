@@ -1,0 +1,2 @@
+for graphic session: You need to enter your login and password
+for ssh session: via this command.  ssh user@[ip-address-or-hostname], then entering the password.

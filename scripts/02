@@ -1,0 +1,4 @@
+#!/bin/bash
+
+ACTIVE_USER=$1
+sudo userdel -f $ACTIVE_USER

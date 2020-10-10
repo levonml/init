@@ -1,0 +1,1 @@
+NETWORK ADDRESS TRANSLATION does the job it is nat (10.60.1.1) for this case In order to find the name we need to reverse lookup NAT IP, which is nat.hive.fi.

@@ -1,0 +1,5 @@
+
+#!/bin/bash
+#displays PID and CMD columns of running processes
+echo "PID  CMD"
+ ps | cut -d ' ' -f2,8
